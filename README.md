@@ -8,6 +8,7 @@ add 2th line from github editor
 
 add 3th line from R but update with git bash (push) using:
   [make change in file code]
+  git add .
   git commit -m "changes to readme3 th line fro git bash"
   git push
 
